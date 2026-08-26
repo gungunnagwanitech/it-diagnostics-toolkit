@@ -1,0 +1,7 @@
+timestamp,check_type,target,summary
+2026-08-26T09:12:03,ping,google.com,host=google.com; reachable=True; packet_loss_pct=0; avg_latency_ms=14.2
+2026-08-26T09:12:05,dns,google.com,host=google.com; resolved=True; ips=['142.250.194.14']; lookup_ms=6.31
+2026-08-26T09:12:10,subnet,192.168.1.0/24,cidr=192.168.1.0/24; valid=True; network_address=192.168.1.0; broadcast_address=192.168.1.255; usable_hosts=254
+2026-08-26T09:12:22,system-health,localhost,cpu_pct=12.4; mem_pct=48.9; disk_pct=61.0; warnings=[]
+2026-08-26T09:13:01,subnet-scan,192.168.1.0/24,live_hosts=14
+2026-08-26T09:13:15,m365-report,graph-api,users=3
